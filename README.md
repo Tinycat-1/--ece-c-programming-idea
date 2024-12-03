@@ -791,5 +791,11 @@ This repository contains a list of 90 mini-project ideas in **C programming**, e
 
 
 
+## License
+
+NO license, just for sharing. 
+
+
+*good luck*
 
 
